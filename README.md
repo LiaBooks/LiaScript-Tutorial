@@ -3,7 +3,7 @@ author:   Your Name
 
 email:    your@mail.org
 
-logo:     https://upload.wikimedia.org/wikipedia/commons/2/2a/Corporate_Woman_Giving_a_PowerPoint_Presentation.svg
+logo:     pic/logo.jpg
 
 version:  0.0.1
 
